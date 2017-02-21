@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "react-addons-test-utils": "^15.4.2",
     "react-scripts-ts": "1.1.6"
   },
   "dependencies": {
+    "@types/enzyme": "^2.7.4",
     "@types/jest": "^18.1.1",
     "@types/node": "^7.0.5",
     "@types/react": "^15.0.11",
